@@ -42,6 +42,8 @@ Improved support for modifying CrossOver is planned for a future update, includi
 
 ## Installation
 
+Download the latest version from [GitHub Releases](https://github.com/NotProtonNot/NotProton/releases/latest), or install it using Homebrew below.
+
 ### Homebrew
 
 Install NotProton using the Homebrew cask:
