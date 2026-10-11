@@ -6,14 +6,7 @@ It enables the Steam Play functionality that is present but inactive in macOS St
 
 ## Contents
 
-- [Compatibility](#compatibility)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Limitations](#limitations)
-- [Development](#development)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
+[Compatibility](#compatibility) | [Installation](#installation) | [Configuration](#configuration) | [Limitations](#limitations) | [Development](#development) | [Contributing](#contributing) | [Acknowledgments](#acknowledgments) | [License](#license)
 
 ## Compatibility
 
